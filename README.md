@@ -1,6 +1,6 @@
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fchangbill&count_bg=%238EE98D&title_bg=%236CAE6C&icon=&icon_color=%23E7E7E7&title=%EC%A1%B0%ED%9A%8C%EC%88%98&edge_flat=false)](https://hits.seeyoufarm.com)
 ### Hi there 👋
 ##### welcome to the changbill's github!
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fchangbill&count_bg=%238EE98D&title_bg=%236CAE6C&icon=&icon_color=%23E7E7E7&title=%EC%A1%B0%ED%9A%8C%EC%88%98&edge_flat=false)](https://hits.seeyoufarm.com)
 
 <!--
 **changbill/changbill** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
