@@ -9,11 +9,6 @@
 
 <br>
 
-[![Solved.ac
-프로필](http://mazassumnida.wtf/api/generate_badge?boj=changbill)](https://solved.ac/changbill)
-
-<br>
-
 ### ⚙️ Management Tool
 ![Static Badge](https://img.shields.io/badge/JIRA-%230052CC?style=for-the-badge&logo=jira&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/GITLAB-%23FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)
@@ -35,6 +30,12 @@
 ![Static Badge](https://img.shields.io/badge/CSS-%231572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/JAVASCRIPT-%23F7DF1E?style=for-the-badge&logo=javascript&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
+![Static Badge](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
+
+<br>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=changbill)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Solved.ac
+프로필](http://mazassumnida.wtf/api/generate_badge?boj=changbill)](https://solved.ac/changbill)
