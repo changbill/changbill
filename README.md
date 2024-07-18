@@ -3,7 +3,6 @@
 ### welcome to the changbill's github! [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fchangbill&count_bg=%23D9D9D9&title_bg=%23AEADA7&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 > 📚 [TISTORY](https://poloopy.tistory.com/) <br/> 
-> 📃 [NOTION](https://www.notion.so/b3da1eca40fc4bbda41a3d13f33b88eb)
 
 ##### - SSAFY 10th
 
