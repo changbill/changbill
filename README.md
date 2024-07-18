@@ -34,7 +34,6 @@
 
 <br>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=changbill)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/generate_badge?boj=changbill)](https://solved.ac/changbill)
