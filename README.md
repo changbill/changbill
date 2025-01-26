@@ -47,9 +47,17 @@
 #### 열린 대화와 피드백을 통해 서로의 성장을 도모하는 팀
 <br>
 
-- SSAFY 10기 교육 수료(2023.07 ~ 2024.06)
+## Development Experience
+- 2023.07 ~ 2024.06 | SSAFY 10기 교육 수료(프로젝트 우수상 2회 수상) <br>
 <br>
 
+## License and Certificate
+- 2024.12 | 정보처리기사 취득 <br>
+- 2023.10 | SQLD 자격증 취득 <br>
+- 2024.01 | TOEIC Speaking IM1 취득 <br>
+<br>
+
+## Site
 📚 [TISTORY](https://poloopy.tistory.com/) <br/> 
 ✏ [GITHUB BLOG](https://changbill.github.io/) <br/> 
 <br>
