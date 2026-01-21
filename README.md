@@ -29,13 +29,19 @@
 <br>
 
 ## Development Experience
-- 2023.07 ~ 2024.06 | SSAFY 10기 교육 수료(프로젝트 우수상 2회 수상) <br>
+- 2023.07 ~ 2024.06 | SSAFY 10기 교육 수료 <br>
+- 2024.10 ~ 2024.11 | 우아한테크코스 7기 프리코스 <br>
+<br>
+
+## Achievements
+- SSAFY 프로젝트 우수상 2회 수상 <br>
 <br>
 
 ## License and Certificate
-- 2024.12 | 정보처리기사 취득 <br>
-- 2023.10 | SQLD 자격증 취득 <br>
-- 2024.01 | TOEIC Speaking IM1 취득 <br>
+- 2024.12 | 정보처리기사 <br>
+- 2023.10 | SQLD <br>
+- 2024.01 | TOEIC Speaking IM1 <br>
+- 2025.05 | TOEIC 845 <br>
 <br>
 
 ## Site
