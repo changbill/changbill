@@ -9,13 +9,15 @@
 ![Static Badge](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=Jenkins&logoColor=white)
 
 ### 🌱 BackEnd Tool
-![Static Badge](https://img.shields.io/badge/SPRING%20BOOT-%236DB33F?style=for-the-badge&logo=springboot&logoColor=white)
-![Static Badge](https://img.shields.io/badge/SPRING-%236DB33F?style=for-the-badge&logo=spring&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Static Badge](https://img.shields.io/badge/SPRING%20BOOT-%236DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![Static Badge](https://img.shields.io/badge/Spring_data_jpa-6DB33F?style=for-the-badge&logo=SpringSecurity&logoColor=white)
+![Static Badge](https://img.shields.io/badge/Spring%20Security-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white)
 
-### 💾 Database
+### 💾 DB
 ![Static Badge](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/-MongoDB-13aa52?style=for-the-badge&logo=mongodb&logoColor=white)
+![Static Badge](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 
 ### 🍊 FrontEnd Tool
 ![Static Badge](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
