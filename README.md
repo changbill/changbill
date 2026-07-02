@@ -59,6 +59,7 @@
 <br>
 
 ## Site
+✏️ [PORTFOLIO](https://gentle-condor-12a.notion.site/e8c7bf04d6198383a93701854f282143?pvs=74) <br/> 
 📚 [TISTORY](https://poloopy.tistory.com/) <br/> 
 ✏ [GITHUB BLOG](https://changbill.github.io/) <br/> 
 <br>
@@ -66,38 +67,56 @@
 
 ### 개발 역량
 
-#### Java
-- Spring Boot 기반 웹 애플리케이션 설계 및 구현 경험 (REST API, WebSocket)
-- JPA를 활용한 데이터 모델링 및 연관관계 설계 경험 (지연 로딩, fetch join을 통한 N+1 문제 해결)
-- JUnit 기반 테스트 코드 작성 및 검증 경험
+#### Java / Spring Boot
+- Spring Boot 기반 웹 애플리케이션 설계 및 구현 경험
+- REST API, WebSocket, STOMP 기반 실시간 통신 기능 구현 경험
+- Spring Security와 JWT를 활용한 인증·인가 구조 구현 경험
+- Redis 기반 Refresh Token 저장, TTL 관리, 로그아웃 삭제 처리를 통한 JWT 무효화 구조 개선 경험
+- JPA 기반 도메인 설계, 연관관계 매핑, 지연 로딩, Fetch Join 활용 경험
+- N+1 문제, JPA 쓰기 지연, 영속성 컨텍스트 관련 문제 분석 및 개선 경험
+- JUnit 기반 테스트 코드 작성 및 기능 검증 경험
 
-#### Database (MySQL / Redis / MongoDB)
-- MySQL 기반 데이터 모델링 및 인덱스 설계, 쿼리 성능 튜닝 경험
-- 트랜잭션 관리 및 동시성 제어에 대한 이해
-- Redis를 활용한 캐싱 전략, 실시간 데이터 처리 및 Key-Value 구조 설계 경험
-- RDBMS와 NoSQL을 분리하여 목적에 맞는 데이터 저장 구조 설계 경험
+#### Database / Messaging
+- MySQL 기반 데이터 모델링, 인덱스 설계, 쿼리 성능 튜닝 경험
+- 조회 조건과 정렬 기준을 고려한 복합 인덱스 적용 경험
+- 페이징 처리와 조회 DTO 분리를 통한 데이터 조회량 및 응답 성능 개선 경험
+- Redis를 활용한 캐싱, 토큰 관리, 블랙리스트, TTL 관리 경험
+- Redis Pub/Sub과 Streams를 분리하여 실시간 메시지 팬아웃과 메시지 저장 구조 설계 경험
+- Redis Streams Consumer Group과 PEL을 활용한 메시지 재처리 구조 구현 경험
+- MongoDB를 활용한 대량 채팅 메시지 및 비정형 데이터 저장 구조 설계 경험
+- RDBMS와 NoSQL을 목적에 따라 분리하여 데이터 정합성과 확장성을 고려한 저장 구조 설계 경험
 
 #### Flutter
-- 상태관리 라이브러리 활용 및 UI/UX 흐름 설계 경험
+- Flutter 기반 모바일 애플리케이션 화면 및 기능 개발 경험
+- 지도·경로 화면, OAuth2 로그인 화면, 애니메이션 기능 구현 경험
 - RESTful API 연동 및 HTTP 통신 처리 경험
-- 비동기 프로그래밍을 통한 생명주기 처리 경험
+- 비동기 처리를 활용한 API 호출 순서 제어 경험
+- 네비게이션 콜백을 활용한 화면 상태 갱신 문제 해결 경험
+- AnimationController 생명주기 관리로 리소스 낭비 문제 개선 경험
+- 이미지 리사이징을 적용하여 업로드 및 조회 지연 문제 개선 경험
 
 #### DevOps / Infra
-- 서버 수평 확장 및 트래픽 분산 구조 설계 경험
+- Docker와 Docker Compose를 활용한 서비스 컨테이너화 경험
 - Jenkins 기반 CI/CD 파이프라인 구축 경험
-- Rolling 배포 전략을 활용한 무중단 배포 환경 구성
-- Docker Compose를 활용한 서비스 컨테이너화
-- Nginx를 활용한 리버스 프록시 및 로드밸런싱 구성
+- Jenkins surge 슬롯을 활용한 점진적 Rolling 배포 구성 경험
+- Nginx 기반 리버스 프록시 및 멀티 슬롯 로드밸런싱 구성 경험
+- Cloudflare Tunnel 기반 홈서버 외부 노출 및 Zero Trust 환경 구성 경험
+- Prometheus, Grafana를 활용한 모니터링 환경 구성 경험
+- AWS S3를 활용한 정적 리소스 분리 및 서버 리소스 최적화 경험
 
 #### Collaboration
 - Git Flow 전략 기반 브랜치 관리 및 협업 경험
-- Jira를 활용한 스프린트 기반 이슈 관리 및 애자일 개발 경험
-- 코드 리뷰 및 협업을 통한 개발 프로세스 개선 경험
+- Jira를 활용한 스프린트 기반 이슈 관리, Story Point 및 Epic 관리 경험
+- Notion을 활용한 회의록, 컨벤션, 명세서, 환경 설정 문서화 경험
+- Figma 기반 와이어프레임 설계 및 UI 흐름 협업 경험
+- Gerrit 기반 코드 리뷰 프로세스 경험
+- 데일리 스크럼을 통한 진행 상황 공유 및 팀 커뮤니케이션 경험
 
-#### AI
-- RAG 시스템 설계 및 구현 경험
-- AI 에이전트 활용 구조 설계 (검색 → 계획 → 실행 단계 분리)
-- 시스템 프롬프트 설계를 통한 컨텍스트 최적화 경험
+#### AI / RAG / Agent
+- n8n 기반 AI Agent RAG 시스템 설계 및 구현 경험
+- AGENTS.md, RESEARCH.md, PLAN.md, SPEC.md를 활용한 AI 작업 맥락 주입 및 작업 구조화 경험
+- 하네스 엔지니어링을 적용하여 검색, 계획, 실행, 검증, 커밋 흐름을 구조화한 경험
+- 작업 산출물 자동화, 중복 산출물 통합, 수정 범위 제한 등을 통해 AI 작업 효율 개선 경험
 
 <br>
 <br>
