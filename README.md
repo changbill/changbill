@@ -1,4 +1,4 @@
-## 더 나은 사용자 경험을 위해 노력하는 개발자 이창헌입니다 😊
+## 더 효율적인 방식을 찾고, 실생활의 불편을 개선하고 싶은 개발자 이창헌입니다 😊
 
 ### 🤖 AI Tool
 ![Static Badge](https://img.shields.io/badge/OpenAI-Codex-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
