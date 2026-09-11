@@ -12,15 +12,16 @@
 <br>
 
 ## Development Experience
-- 2026.07 ~ 2026.09 | NIPA-AWS AI Security Engineer <br>
-- 2024.10 ~ 2024.11 | 우아한테크코스 7기 프리코스 <br>
-- 2023.07 ~ 2024.06 | SSAFY 10기 교육 수료 <br>
+- 2026.07 ~ 2026.09 | NIPA-AWS AI Security Engineer 수료 <br>
+- 2024.10 ~ 2024.11 | 우아한테크코스 7기 프리코스 수료 <br>
+- 2023.07 ~ 2024.06 | SSAFY 10기 Java 트랙 수료 <br>
 
 <br>
 
-## Achievements
-- NIPA-AWS AI Security Engineer 프로젝트 1위 <br>
-- SSAFY 프로젝트 우수상 2회 수상 <br>
+## Awards
+- NIPA-AWS AI Security Engineer 프로젝트 대상 <br>
+- SSAFY 특화 프로젝트 우수상(2위) 수상 <br>
+- SSAFY 공통 프로젝트 우수상(3위) 수상 <br>
 - 서울문화사 기획 공모전 최우수상 <br>
 - 남양유업 대학생 마케팅 공모전 우수상 <br>
 <br>
